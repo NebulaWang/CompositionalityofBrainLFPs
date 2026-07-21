@@ -1,0 +1,473 @@
+Allen acronym,Allen name,Inter-trial state,Inter-trial state hub,Audio-visual cue,Audio-visual cue hub
+FRP1,Frontal pole layer 1,10,AON,26,ProS
+FRP2/3,Frontal pole layer 2/3,10,AON,26,ProS
+FRP5,Frontal pole layer 5,-1,N/A,1,CP
+FRP6a,Frontal pole layer 6a,2,CP,1,CP
+MOp1,Primary motor area Layer 1,-1,N/A,-1,N/A
+MOp2/3,Primary motor area Layer 2/3,-1,N/A,-1,N/A
+MOp5,Primary motor area Layer 5,2,CP,2,MOp6a
+MOp6a,Primary motor area Layer 6a,2,CP,2,MOp6a
+MOp6b,Primary motor area Layer 6b,2,CP,2,MOp6a
+MOs1,Secondary motor area layer 1,-1,N/A,-1,N/A
+MOs2/3,Secondary motor area layer 2/3,-1,N/A,-1,N/A
+MOs5,Secondary motor area layer 5,-1,N/A,1,CP
+MOs6a,Secondary motor area layer 6a,2,CP,1,CP
+MOs6b,Secondary motor area layer 6b,2,CP,1,CP
+SSp-n1,Primary somatosensory area nose layer 1,-1,N/A,-1,N/A
+SSp-n2/3,Primary somatosensory area nose layer 2/3,-1,N/A,1,CP
+SSp-n4,Primary somatosensory area nose layer 4,-1,N/A,2,MOp6a
+SSp-n5,Primary somatosensory area nose layer 5,-1,N/A,-1,N/A
+SSp-n6a,Primary somatosensory area nose layer 6a,-1,N/A,2,MOp6a
+SSp-n6b,Primary somatosensory area nose layer 6b,-1,N/A,2,MOp6a
+SSp-bfd1,Primary somatosensory area barrel field layer 1,6,VISl5,-1,N/A
+SSp-bfd2/3,Primary somatosensory area barrel field layer 2/3,6,VISl5,0,SSp-bfd2/3
+SSp-bfd4,Primary somatosensory area barrel field layer 4,5,SSp-bfd5,24,SSs5
+SSp-bfd5,Primary somatosensory area barrel field layer 5,5,SSp-bfd5,-1,N/A
+SSp-bfd6a,Primary somatosensory area barrel field layer 6a,24,SSp-bfd6a,-1,N/A
+SSp-bfd6b,Primary somatosensory area barrel field layer 6b,24,SSp-bfd6a,-1,N/A
+SSp-ll1,Primary somatosensory area lower limb layer 1,4,POST,20,SSp-ul5
+SSp-ll2/3,Primary somatosensory area lower limb layer 2/3,4,POST,20,SSp-ul5
+SSp-ll4,Primary somatosensory area lower limb layer 4,-1,N/A,20,SSp-ul5
+SSp-ll5,Primary somatosensory area lower limb layer 5,-1,N/A,20,SSp-ul5
+SSp-ll6a,Primary somatosensory area lower limb layer 6a,23,SSp-tr5,20,SSp-ul5
+SSp-ll6b,Primary somatosensory area lower limb layer 6b,23,SSp-tr5,20,SSp-ul5
+SSp-m1,Primary somatosensory area mouth layer 1,-1,N/A,-1,N/A
+SSp-m2/3,Primary somatosensory area mouth layer 2/3,2,CP,22,SSp-m5
+SSp-m4,Primary somatosensory area mouth layer 4,2,CP,22,SSp-m5
+SSp-m5,Primary somatosensory area mouth layer 5,2,CP,22,SSp-m5
+SSp-m6a,Primary somatosensory area mouth layer 6a,2,CP,2,MOp6a
+SSp-m6b,Primary somatosensory area mouth layer 6b,2,CP,2,MOp6a
+SSp-ul1,Primary somatosensory area upper limb layer 1,23,SSp-tr5,20,SSp-ul5
+SSp-ul2/3,Primary somatosensory area upper limb layer 2/3,-1,N/A,20,SSp-ul5
+SSp-ul4,Primary somatosensory area upper limb layer 4,-1,N/A,20,SSp-ul5
+SSp-ul5,Primary somatosensory area upper limb layer 5,17,SSp-ul5,20,SSp-ul5
+SSp-ul6a,Primary somatosensory area upper limb layer 6a,-1,N/A,20,SSp-ul5
+SSp-ul6b,Primary somatosensory area upper limb layer 6b,-1,N/A,20,SSp-ul5
+SSp-tr1,Primary somatosensory area trunk layer 1,4,POST,-1,N/A
+SSp-tr2/3,Primary somatosensory area trunk layer 2/3,23,SSp-tr5,19,SSp-tr5
+SSp-tr4,Primary somatosensory area trunk layer 4,23,SSp-tr5,19,SSp-tr5
+SSp-tr5,Primary somatosensory area trunk layer 5,23,SSp-tr5,19,SSp-tr5
+SSp-tr6a,Primary somatosensory area trunk layer 6a,24,SSp-bfd6a,19,SSp-tr5
+SSp-tr6b,Primary somatosensory area trunk layer 6b,24,SSp-bfd6a,19,SSp-tr5
+SSp-un1,Primary somatosensory area unassigned layer 1,14,APN,-1,N/A
+SSp-un2/3,Primary somatosensory area unassigned layer 2/3,24,SSp-bfd6a,-1,N/A
+SSp-un4,Primary somatosensory area unassigned layer 4,24,SSp-bfd6a,-1,N/A
+SSp-un5,Primary somatosensory area unassigned layer 5,24,SSp-bfd6a,-1,N/A
+SSp-un6a,Primary somatosensory area unassigned layer 6a,-1,N/A,-1,N/A
+SSp-un6b,Primary somatosensory area unassigned layer 6b,-1,N/A,-1,N/A
+SSs2/3,Supplemental somatosensory area layer 2/3,6,VISl5,6,VISp2/3
+SSs4,Supplemental somatosensory area layer 4,6,VISl5,-1,N/A
+SSs5,Supplemental somatosensory area layer 5,21,SSs5,24,SSs5
+SSs6a,Supplemental somatosensory area layer 6a,-1,N/A,23,SSs6a
+SSs6b,Supplemental somatosensory area layer 6b,-1,N/A,23,SSs6a
+GU5,Gustatory areas layer 5,2,CP,22,SSp-m5
+GU6a,Gustatory areas layer 6a,2,CP,22,SSp-m5
+VISC5,Visceral area layer 5,20,VISC5,25,VISC5
+VISC6a,Visceral area layer 6a,-1,N/A,23,SSs6a
+VISC6b,Visceral area layer 6b,-1,N/A,1,CP
+AUDd2/3,Dorsal auditory area layer 2/3,-1,N/A,-1,N/A
+AUDd4,Dorsal auditory area layer 4,-1,N/A,-1,N/A
+AUDd5,Dorsal auditory area layer 5,21,SSs5,-1,N/A
+AUDd6a,Dorsal auditory area layer 6a,21,SSs5,24,SSs5
+AUDd6b,Dorsal auditory area layer 6b,-1,N/A,-1,N/A
+AUDp4,Primary auditory area layer 4,-1,N/A,-1,N/A
+AUDp5,Primary auditory area layer 5,-1,N/A,-1,N/A
+AUDp6a,Primary auditory area layer 6a,21,SSs5,-1,N/A
+AUDpo2/3,Posterior auditory area layer 2/3,-1,N/A,-1,N/A
+AUDpo4,Posterior auditory area layer 4,-1,N/A,-1,N/A
+AUDpo5,Posterior auditory area layer 5,21,SSs5,21,VISrl5
+AUDpo6a,Posterior auditory area layer 6a,21,SSs5,21,VISrl5
+AUDpo6b,Posterior auditory area layer 6b,21,SSs5,-1,N/A
+AUDv5,Ventral auditory area layer 5,-1,N/A,-1,N/A
+AUDv6a,Ventral auditory area layer 6a,21,SSs5,21,VISrl5
+AUDv6b,Ventral auditory area layer 6b,-1,N/A,-1,N/A
+VISal2/3,Anterolateral visual area layer 2/3,21,SSs5,21,VISrl5
+VISal4,Anterolateral visual area layer 4,21,SSs5,21,VISrl5
+VISal5,Anterolateral visual area layer 5,-1,N/A,-1,N/A
+VISal6a,Anterolateral visual area layer 6a,22,PF,21,VISrl5
+VISal6b,Anterolateral visual area layer 6b,22,PF,21,VISrl5
+VISam1,Anteromedial visual area layer 1,4,POST,31,VISam6a
+VISam2/3,Anteromedial visual area layer 2/3,27,VISa4,31,VISam6a
+VISam4,Anteromedial visual area layer 4,27,VISa4,31,VISam6a
+VISam5,Anteromedial visual area layer 5,27,VISa4,31,VISam6a
+VISam6a,Anteromedial visual area layer 6a,27,VISa4,31,VISam6a
+VISam6b,Anteromedial visual area layer 6b,27,VISa4,31,VISam6a
+VISl1,Lateral visual area layer 1,6,VISl5,8,VISl5
+VISl2/3,Lateral visual area layer 2/3,6,VISl5,8,VISl5
+VISl4,Lateral visual area layer 4,6,VISl5,8,VISl5
+VISl5,Lateral visual area layer 5,6,VISl5,8,VISl5
+VISl6a,Lateral visual area layer 6a,-1,N/A,8,VISl5
+VISl6b,Lateral visual area layer 6b,-1,N/A,-1,N/A
+VISp1,Primary visual area layer 1,3,VISp5,7,POST
+VISp2/3,Primary visual area layer 2/3,3,VISp5,6,VISp2/3
+VISp4,Primary visual area layer 4,3,VISp5,7,POST
+VISp5,Primary visual area layer 5,3,VISp5,7,POST
+VISp6a,Primary visual area layer 6a,3,VISp5,-1,N/A
+VISp6b,Primary visual area layer 6b,-1,N/A,-1,N/A
+VISpl1,Posterolateral visual area layer 1,5,SSp-bfd5,-1,N/A
+VISpl2/3,Posterolateral visual area layer 2/3,-1,N/A,-1,N/A
+VISpl4,Posterolateral visual area layer 4,-1,N/A,-1,N/A
+VISpl5,Posterolateral visual area layer 5,3,VISp5,7,POST
+VISpl6a,Posterolateral visual area layer 6a,3,VISp5,6,VISp2/3
+VISpm1,posteromedial visual area layer 1,4,POST,7,POST
+VISpm2/3,posteromedial visual area layer 2/3,4,POST,7,POST
+VISpm4,posteromedial visual area layer 4,4,POST,7,POST
+VISpm5,posteromedial visual area layer 5,4,POST,5,VISpm5
+VISpm6a,posteromedial visual area layer 6a,27,VISa4,5,VISpm5
+VISpm6b,posteromedial visual area layer 6b,-1,N/A,5,VISpm5
+VISli2/3,Laterointermediate area layer 2/3,3,VISp5,8,VISl5
+VISli4,Laterointermediate area layer 4,-1,N/A,-1,N/A
+VISli5,Laterointermediate area layer 5,6,VISl5,-1,N/A
+VISli6a,Laterointermediate area layer 6a,8,VISli6a,-1,N/A
+VISli6b,Laterointermediate area layer 6b,9,CA1,8,VISl5
+VISpor1,Postrhinal area layer 1,-1,N/A,12,ANcr1
+VISpor2/3,Postrhinal area layer 2/3,-1,N/A,12,ANcr1
+VISpor5,Postrhinal area layer 5,17,SSp-ul5,-1,N/A
+VISpor6a,Postrhinal area layer 6a,17,SSp-ul5,-1,N/A
+VISpor6b,Postrhinal area layer 6b,12,SCdg,-1,N/A
+ACAd2/3,Anterior cingulate area dorsal part layer 2/3,31,PL1,-1,N/A
+ACAd5,Anterior cingulate area dorsal part layer 5,2,CP,1,CP
+ACAd6a,Anterior cingulate area dorsal part layer 6a,2,CP,1,CP
+ACAd6b,Anterior cingulate area dorsal part layer 6b,2,CP,1,CP
+ACAv1,Anterior cingulate area ventral part layer 1,17,SSp-ul5,1,CP
+ACAv2/3,Anterior cingulate area ventral part layer 2/3,2,CP,1,CP
+ACAv5,Anterior cingulate area ventral part layer 5,2,CP,1,CP
+ACAv6a,Anterior cingulate area ventral part 6a,2,CP,1,CP
+ACAv6b,Anterior cingulate area ventral part 6b,2,CP,1,CP
+PL1,Prelimbic area layer 1,31,PL1,30,PL1
+PL2/3,Prelimbic area layer 2/3,31,PL1,30,PL1
+PL5,Prelimbic area layer 5,2,CP,4,ORBvl6a
+PL6a,Prelimbic area layer 6a,2,CP,1,CP
+PL6b,Prelimbic area layer 6b,2,CP,1,CP
+ILA1,Infralimbic area layer 1,2,CP,4,ORBvl6a
+ILA2/3,Infralimbic area layer 2/3,2,CP,4,ORBvl6a
+ILA5,Infralimbic area layer 5,2,CP,4,ORBvl6a
+ILA6a,Infralimbic area layer 6a,2,CP,1,CP
+ORBl1,Orbital area lateral part layer 1,10,AON,26,ProS
+ORBl2/3,Orbital area lateral part layer 2/3,10,AON,26,ProS
+ORBl5,Orbital area lateral part layer 5,7,DP,2,MOp6a
+ORBl6a,Orbital area lateral part layer 6a,2,CP,2,MOp6a
+ORBm1,Orbital area medial part layer 1,31,PL1,30,PL1
+ORBm2/3,Orbital area medial part layer 2/3,7,DP,-1,N/A
+ORBm5,Orbital area medial part layer 5,2,CP,4,ORBvl6a
+ORBm6a,Orbital area medial part layer 6a,2,CP,4,ORBvl6a
+ORBvl1,Orbital area ventrolateral part layer 1,10,AON,26,ProS
+ORBvl2/3,Orbital area ventrolateral part layer 2/3,10,AON,26,ProS
+ORBvl5,Orbital area ventrolateral part layer 5,-1,N/A,-1,N/A
+ORBvl6a,Orbital area ventrolateral part layer 6a,2,CP,4,ORBvl6a
+AId5,Agranular insular area dorsal part layer 5,2,CP,-1,N/A
+AId6a,Agranular insular area dorsal part layer 6a,2,CP,2,MOp6a
+AId6b,Agranular insular area dorsal part layer 6b,2,CP,2,MOp6a
+AIp1,Agranular insular area posterior part layer 1,-1,N/A,23,SSs6a
+AIp2/3,Agranular insular area posterior part layer 2/3,20,VISC5,25,VISC5
+AIp5,Agranular insular area posterior part layer 5,20,VISC5,25,VISC5
+AIp6a,Agranular insular area posterior part layer 6a,-1,N/A,-1,N/A
+AIp6b,Agranular insular area posterior part layer 6b,2,CP,1,CP
+AIv2/3,Agranular insular area ventral part layer 2/3,2,CP,-1,N/A
+AIv5,Agranular insular area ventral part layer 5,2,CP,2,MOp6a
+AIv6a,Agranular insular area ventral part layer 6a,2,CP,2,MOp6a
+AIv6b,Agranular insular area ventral part layer 6b,2,CP,2,MOp6a
+RSPagl1,Retrosplenial area lateral agranular part layer 1,4,POST,-1,N/A
+RSPagl2/3,Retrosplenial area lateral agranular part layer 2/3,4,POST,7,POST
+RSPagl5,Retrosplenial area lateral agranular part layer 5,3,VISp5,7,POST
+RSPagl6a,Retrosplenial area lateral agranular part layer 6a,3,VISp5,7,POST
+RSPagl6b,Retrosplenial area lateral agranular part layer 6b,-1,N/A,7,POST
+RSPd1,Retrosplenial area dorsal part layer 1,-1,N/A,7,POST
+RSPd2/3,Retrosplenial area dorsal part layer 2/3,4,POST,7,POST
+RSPd5,Retrosplenial area dorsal part layer 5,3,VISp5,7,POST
+RSPd6a,Retrosplenial area dorsal part layer 6a,3,VISp5,7,POST
+RSPd6b,Retrosplenial area dorsal part layer 6b,4,POST,5,VISpm5
+RSPv1,Retrosplenial area ventral part layer 1,3,VISp5,-1,N/A
+RSPv2/3,Retrosplenial area ventral part layer 2/3,-1,N/A,7,POST
+RSPv5,Retrosplenial area ventral part layer 5,-1,N/A,-1,N/A
+RSPv6a,Retrosplenial area ventral part layer 6a,-1,N/A,6,VISp2/3
+RSPv6b,Retrosplenial area ventral part layer 6b,-1,N/A,5,VISpm5
+VISa1,Anterior area layer 1,6,VISl5,-1,N/A
+VISa2/3,Anterior area layer 2/3,4,POST,7,POST
+VISa4,Anterior area layer 4,27,VISa4,7,POST
+VISa5,Anterior area layer 5,25,VISa5,7,POST
+VISa6a,Anterior area layer 6a,25,VISa5,-1,N/A
+VISa6b,Anterior area layer 6b,25,VISa5,7,POST
+VISrl1,Rostrolateral area layer 1,21,SSs5,21,VISrl5
+VISrl2/3,Rostrolateral area layer 2/3,26,VISrl2/3,21,VISrl5
+VISrl4,Rostrolateral area layer 4,26,VISrl2/3,-1,N/A
+VISrl5,Rostrolateral area layer 5,26,VISrl2/3,21,VISrl5
+VISrl6a,Rostrolateral area layer 6a,25,VISa5,21,VISrl5
+VISrl6b,Rostrolateral area layer 6b,25,VISa5,21,VISrl5
+TEa2/3,Temporal association areas layer 2/3,6,VISl5,0,SSp-bfd2/3
+TEa4,Temporal association areas layer 4,6,VISl5,0,SSp-bfd2/3
+TEa5,Temporal association areas layer 5,21,SSs5,21,VISrl5
+TEa6a,Temporal association areas layer 6a,21,SSs5,21,VISrl5
+TEa6b,Temporal association areas layer 6b,8,VISli6a,-1,N/A
+PERI1,Perirhinal area layer 1,-1,N/A,-1,N/A
+PERI2/3,Perirhinal area layer 2/3,29,ENTl3,-1,N/A
+PERI5,Perirhinal area layer 5,29,ENTl3,-1,N/A
+ECT2/3,Ectorhinal area/Layer 2/3,29,ENTl3,21,VISrl5
+ECT5,Ectorhinal area/Layer 5,21,SSs5,21,VISrl5
+ECT6a,Ectorhinal area/Layer 6a,-1,N/A,-1,N/A
+ECT6b,Ectorhinal area/Layer 6b,-1,N/A,-1,N/A
+AOBgl,Accessory olfactory bulb glomerular layer,10,AON,26,ProS
+AOBmi,Accessory olfactory bulb mitral layer,10,AON,26,ProS
+DG-mo,Dentate gyrus molecular layer,11,DG-mo,26,ProS
+DG-po,Dentate gyrus polymorph layer,11,DG-mo,26,ProS
+DG-sg,Dentate gyrus granule cell layer,11,DG-mo,26,ProS
+FC,Fasciola cinerea,9,CA1,-1,N/A
+IG,Induseum griseum,17,SSp-ul5,1,CP
+ENTl1,Entorhinal area lateral part layer 1,-1,N/A,-1,N/A
+ENTl2,Entorhinal area lateral part layer 2,29,ENTl3,-1,N/A
+ENTl3,Entorhinal area lateral part layer 3,29,ENTl3,11,PIR
+ENTl5,Entorhinal area lateral part layer 5,9,CA1,11,PIR
+ENTl6a,Entorhinal area lateral part layer 6a,-1,N/A,-1,N/A
+ENTm1,Entorhinal area medial part dorsal zone layer 1,-1,N/A,-1,N/A
+ENTm2,Entorhinal area medial part dorsal zone layer 2,-1,N/A,-1,N/A
+ENTm3,Entorhinal area medial part dorsal zone layer 3,9,CA1,-1,N/A
+ENTm5,Entorhinal area medial part dorsal zone layer 5,9,CA1,12,ANcr1
+ENTm6,Entorhinal area medial part dorsal zone layer 6,9,CA1,12,ANcr1
+HATA,Hippocampo-amygdalar transition area,-1,N/A,34,HATA
+APr,Area prostriata,3,VISp5,7,POST
+CLA,Claustrum,2,CP,2,MOp6a
+EPd,Endopiriform nucleus dorsal part,2,CP,-1,N/A
+EPv,Endopiriform nucleus ventral part,10,AON,13,BLAp
+LA,Lateral amygdalar nucleus,28,COAa,14,MEA
+BLAa,Basolateral amygdalar nucleus anterior part,28,COAa,-1,N/A
+BLAp,Basolateral amygdalar nucleus posterior part,-1,N/A,13,BLAp
+BLAv,Basolateral amygdalar nucleus ventral part,-1,N/A,-1,N/A
+BMAa,Basomedial amygdalar nucleus anterior part,28,COAa,14,MEA
+BMAp,Basomedial amygdalar nucleus posterior part,-1,N/A,14,MEA
+PA,Posterior amygdalar nucleus,9,CA1,-1,N/A
+CP,Caudoputamen,2,CP,1,CP
+ACB,Nucleus accumbens,2,CP,-1,N/A
+FS,Fundus of striatum,-1,N/A,14,MEA
+LSc,Lateral septal nucleus caudal (caudodorsal) part,-1,N/A,3,LSr
+LSr,Lateral septal nucleus rostral (rostroventral) part,18,LSr,3,LSr
+LSv,Lateral septal nucleus ventral part,18,LSr,3,LSr
+SF,Septofimbrial nucleus,12,SCdg,3,LSr
+SH,Septohippocampal nucleus,18,LSr,3,LSr
+AAA,Anterior amygdalar area,-1,N/A,-1,N/A
+CEAc,Central amygdalar nucleus capsular part,-1,N/A,14,MEA
+CEAl,Central amygdalar nucleus lateral part,-1,N/A,14,MEA
+CEAm,Central amygdalar nucleus medial part,-1,N/A,14,MEA
+IA,Intercalated amygdalar nucleus,-1,N/A,14,MEA
+GPe,Globus pallidus external segment,-1,N/A,-1,N/A
+GPi,Globus pallidus internal segment,28,COAa,14,MEA
+SI,Substantia innominata,18,LSr,-1,N/A
+MA,Magnocellular nucleus,-1,N/A,-1,N/A
+MS,Medial septal nucleus,18,LSr,-1,N/A
+NDB,Diagonal band nucleus,18,LSr,-1,N/A
+TRS,Triangular nucleus of septum,12,SCdg,3,LSr
+VAL,Ventral anterior-lateral complex of the thalamus,19,PO,17,AV
+VM,Ventral medial nucleus of the thalamus,19,PO,18,MH
+VPL,Ventral posterolateral nucleus of the thalamus,-1,N/A,10,APN
+VPLpc,Ventral posterolateral nucleus of the thalamus parvicellular part,19,PO,10,APN
+VPM,Ventral posteromedial nucleus of the thalamus,19,PO,10,APN
+VPMpc,Ventral posteromedial nucleus of the thalamus parvicellular part,-1,N/A,18,MH
+PoT,Posterior triangular thalamic nucleus,19,PO,10,APN
+SPFm,Subparafascicular nucleus magnocellular part,13,MD,15,PVT
+SPFp,Subparafascicular nucleus parvicellular part,-1,N/A,10,APN
+SPA,Subparafascicular area,13,MD,16,SPA
+PP,Peripeduncular nucleus,-1,N/A,-1,N/A
+MGd,Medial geniculate complex dorsal part,9,CA1,-1,N/A
+MGv,Medial geniculate complex ventral part,-1,N/A,29,LGd-co
+MGm,Medial geniculate complex medial part,12,SCdg,10,APN
+LGd-sh,Dorsal part of the lateral geniculate complex shell,-1,N/A,-1,N/A
+LGd-co,Dorsal part of the lateral geniculate complex core,-1,N/A,29,LGd-co
+LGd-ip,Dorsal part of the lateral geniculate complex ipsilateral zone,-1,N/A,29,LGd-co
+LP,Lateral posterior nucleus of the thalamus,19,PO,10,APN
+PO,Posterior complex of the thalamus,19,PO,10,APN
+POL,Posterior limiting nucleus of the thalamus,12,SCdg,-1,N/A
+SGN,Suprageniculate nucleus,19,PO,10,APN
+Eth,Ethmoid nucleus of the thalamus,19,PO,-1,N/A
+AV,Anteroventral nucleus of thalamus,12,SCdg,17,AV
+AMd,Anteromedial nucleus dorsal part,12,SCdg,-1,N/A
+AMv,Anteromedial nucleus ventral part,-1,N/A,-1,N/A
+AD,Anterodorsal nucleus,-1,N/A,-1,N/A
+IAM,Interanteromedial nucleus of the thalamus,12,SCdg,15,PVT
+IAD,Interanterodorsal nucleus of the thalamus,12,SCdg,-1,N/A
+LD,Lateral dorsal nucleus of thalamus,19,PO,10,APN
+IMD,Intermediodorsal nucleus of the thalamus,13,MD,15,PVT
+SMT,Submedial nucleus of the thalamus,12,SCdg,17,AV
+PR,Perireunensis nucleus,12,SCdg,16,SPA
+PVT,Paraventricular nucleus of the thalamus,12,SCdg,15,PVT
+PT,Parataenial nucleus,12,SCdg,15,PVT
+RE,Nucleus of reuniens,12,SCdg,15,PVT
+Xi,Xiphoid thalamic nucleus,12,SCdg,15,PVT
+RH,Rhomboid nucleus,12,SCdg,15,PVT
+CM,Central medial nucleus of the thalamus,-1,N/A,-1,N/A
+PCN,Paracentral nucleus,12,SCdg,17,AV
+CL,Central lateral nucleus of the thalamus,19,PO,-1,N/A
+PF,Parafascicular nucleus,22,PF,-1,N/A
+PIL,Posterior intralaminar thalamic nucleus,14,APN,10,APN
+RT,Reticular nucleus of the thalamus,-1,N/A,-1,N/A
+IGL,Intergeniculate leaflet of the lateral geniculate complex,-1,N/A,29,LGd-co
+IntG,Intermediate geniculate nucleus,-1,N/A,-1,N/A
+SubG,Subgeniculate nucleus,-1,N/A,-1,N/A
+MH,Medial habenula,13,MD,18,MH
+LH,Lateral habenula,-1,N/A,-1,N/A
+ADP,Anterodorsal preoptic nucleus,18,LSr,-1,N/A
+AVP,Anteroventral preoptic nucleus,18,LSr,33,PS
+MPO,Medial preoptic area,18,LSr,33,PS
+PS,Parastrial nucleus,-1,N/A,33,PS
+SFO,Subfornical organ,-1,N/A,3,LSr
+VLPO,Ventrolateral preoptic nucleus,-1,N/A,33,PS
+LM,Lateral mammillary nucleus,-1,N/A,-1,N/A
+Mml,Medial mammillary nucleus lateral part,-1,N/A,-1,N/A
+PH,Posterior hypothalamic nucleus,13,MD,15,PVT
+LHA,Lateral hypothalamic area,12,SCdg,-1,N/A
+LPO,Lateral preoptic area,-1,N/A,33,PS
+PeF,Perifornical nucleus,12,SCdg,18,MH
+STN,Subthalamic nucleus,25,VISa5,10,APN
+TU,Tuberal nucleus,12,SCdg,10,APN
+FF,Fields of Forel,-1,N/A,10,APN
+SCop,Superior colliculus optic layer,3,VISp5,7,POST
+SCsg,Superior colliculus superficial gray layer,3,VISp5,7,POST
+SCzo,Superior colliculus zonal layer,3,VISp5,7,POST
+ICc,Inferior colliculus central nucleus,1,CUN,-1,N/A
+ICd,Inferior colliculus dorsal nucleus,-1,N/A,-1,N/A
+ICe,Inferior colliculus external nucleus,-1,N/A,27,ICe
+NB,Nucleus of the brachium of the inferior colliculus,14,APN,10,APN
+SAG,Nucleus sagulum,-1,N/A,-1,N/A
+PBG,Parabigeminal nucleus,-1,N/A,-1,N/A
+SNr,Substantia nigra reticular part,14,APN,10,APN
+VTA,Ventral tegmental area,14,APN,-1,N/A
+RR,Midbrain reticular nucleus retrorubral area,-1,N/A,-1,N/A
+SCdg,Superior colliculus motor related deep gray layer,12,SCdg,10,APN
+SCdw,Superior colliculus motor related deep white layer,12,SCdg,10,APN
+SCiw,Superior colliculus motor related intermediate white layer,14,APN,10,APN
+PRC,Precommissural nucleus,13,MD,16,SPA
+INC,Interstitial nucleus of Cajal,-1,N/A,10,APN
+ND,Nucleus of Darkschewitsch,14,APN,10,APN
+Su3,Supraoculomotor periaqueductal gray,-1,N/A,10,APN
+APN,Anterior pretectal nucleus,14,APN,10,APN
+MPT,Medial pretectal area,-1,N/A,-1,N/A
+NOT,Nucleus of the optic tract,14,APN,10,APN
+NPC,Nucleus of the posterior commissure,14,APN,10,APN
+OP,Olivary pretectal nucleus,14,APN,10,APN
+PPT,Posterior pretectal nucleus,14,APN,10,APN
+RPF,Retroparafascicular nucleus,14,APN,10,APN
+CUN,Cuneiform nucleus,1,CUN,27,ICe
+RN,Red nucleus,15,RN,10,APN
+III,Oculomotor nucleus,14,APN,10,APN
+MA3,Medial accesory oculomotor nucleus,-1,N/A,-1,N/A
+EW,Edinger-Westphal nucleus,-1,N/A,-1,N/A
+Pa4,Paratrochlear nucleus,14,APN,10,APN
+VTN,Ventral tegmental nucleus,15,RN,10,APN
+AT,Anterior tegmental nucleus,16,CS,32,PRNr
+DT,Dorsal terminal nucleus of the accessory optic tract,8,VISli6a,-1,N/A
+MT,Medial terminal nucleus of the accessory optic tract,14,APN,-1,N/A
+SNc,Substantia nigra compact part,14,APN,10,APN
+PPN,Pedunculopontine nucleus,-1,N/A,-1,N/A
+IF,Interfascicular nucleus raphe,15,RN,10,APN
+IPA,Interpeduncular nucleus apical,14,APN,10,APN
+IPL,Interpeduncular nucleus lateral,12,SCdg,-1,N/A
+IPDM,Interpeduncular nucleus dorsomedial,15,RN,10,APN
+IPDL,Interpeduncular nucleus dorsolateral,14,APN,10,APN
+RL,Rostral linear nucleus raphe,14,APN,10,APN
+CLI,Central linear nucleus raphe,14,APN,10,APN
+DR,Dorsal nucleus raphe,-1,N/A,10,APN
+PSV,Principal sensory nucleus of the trigeminal,-1,N/A,28,SUT
+KF,Koelliker-Fuse subnucleus,0,CUL4 5,9,IRN
+POR,Superior olivary complex periolivary region,-1,N/A,-1,N/A
+SOCm,Superior olivary complex medial part,-1,N/A,32,PRNr
+SOCl,Superior olivary complex lateral part,1,CUN,-1,N/A
+DTN,Dorsal tegmental nucleus,-1,N/A,-1,N/A
+PDTg,Posterodorsal tegmental nucleus,-1,N/A,-1,N/A
+PCG,Pontine central gray,-1,N/A,-1,N/A
+PG,Pontine gray,-1,N/A,-1,N/A
+PRNc,Pontine reticular nucleus caudal part,1,CUN,-1,N/A
+SUT,Supratrigeminal nucleus,1,CUN,28,SUT
+TRN,Tegmental reticular nucleus,16,CS,-1,N/A
+V,Motor nucleus of trigeminal,-1,N/A,28,SUT
+P5,Peritrigeminal zone,-1,N/A,-1,N/A
+PC5,Parvicellular motor 5 nucleus,1,CUN,28,SUT
+I5,Intertrigeminal nucleus,0,CUL4 5,-1,N/A
+LC,Locus ceruleus,-1,N/A,-1,N/A
+LDT,Laterodorsal tegmental nucleus,-1,N/A,-1,N/A
+NI,Nucleus incertus,-1,N/A,-1,N/A
+PRNr,Pontine reticular nucleus,-1,N/A,32,PRNr
+DCO,Dorsal cochlear nucleus,0,CUL4 5,9,IRN
+VCO,Ventral cochlear nucleus,0,CUL4 5,-1,N/A
+CU,Cuneate nucleus,0,CUL4 5,-1,N/A
+ECU,External cuneate nucleus,0,CUL4 5,9,IRN
+SPVC,Spinal nucleus of the trigeminal caudal part,0,CUL4 5,9,IRN
+SPVI,Spinal nucleus of the trigeminal interpolar part,0,CUL4 5,9,IRN
+Pa5,Paratrigeminal nucleus,0,CUL4 5,9,IRN
+VII,Facial motor nucleus,-1,N/A,-1,N/A
+AMBv,Nucleus ambiguus ventral division,0,CUL4 5,9,IRN
+DMX,Dorsal motor nucleus of the vagus nerve,-1,N/A,9,IRN
+GRN,Gigantocellular reticular nucleus,0,CUL4 5,9,IRN
+ICB,Infracerebellar nucleus,0,CUL4 5,9,IRN
+IO,Inferior olivary complex,0,CUL4 5,9,IRN
+IRN,Intermediate reticular nucleus,0,CUL4 5,9,IRN
+LIN,Linear nucleus of the medulla,0,CUL4 5,9,IRN
+LRNm,Lateral reticular nucleus magnocellular part,0,CUL4 5,9,IRN
+MARN,Magnocellular reticular nucleus,0,CUL4 5,9,IRN
+MDRNd,Medullary reticular nucleus dorsal part,0,CUL4 5,9,IRN
+MDRNv,Medullary reticular nucleus ventral part,0,CUL4 5,9,IRN
+PARN,Parvicellular reticular nucleus,0,CUL4 5,9,IRN
+PAS,Parasolitary nucleus,0,CUL4 5,-1,N/A
+PGRNd,Paragigantocellular reticular nucleus dorsal part,0,CUL4 5,9,IRN
+PGRNl,Paragigantocellular reticular nucleus lateral part,0,CUL4 5,9,IRN
+PRP,Nucleus prepositus,0,CUL4 5,9,IRN
+LAV,Lateral vestibular nucleus,0,CUL4 5,9,IRN
+MV,Medial vestibular nucleus,0,CUL4 5,9,IRN
+SPIV,Spinal vestibular nucleus,0,CUL4 5,9,IRN
+SUV,Superior vestibular nucleus,-1,N/A,9,IRN
+x,Nucleus x,0,CUL4 5,9,IRN
+XII,Hypoglossal nucleus,30,NLL,34,HATA
+y,Nucleus y,0,CUL4 5,9,IRN
+RO,Nucleus raphe obscurus,30,NLL,34,HATA
+FN,Fastigial nucleus,0,CUL4 5,9,IRN
+IP,Interposed nucleus,0,CUL4 5,9,IRN
+DN,Dentate nucleus,0,CUL4 5,9,IRN
+VeCB,Vestibulocerebellar nucleus,0,CUL4 5,9,IRN
+MOB,Main olfactory bulb,-1,N/A,-1,N/A
+AON,Anterior olfactory nucleus,10,AON,26,ProS
+TTd,Taenia tecta dorsal part,-1,N/A,-1,N/A
+TTv,Taenia tecta ventral part,-1,N/A,-1,N/A
+DP,Dorsal peduncular area,7,DP,-1,N/A
+PIR,Piriform area,-1,N/A,11,PIR
+COAa,Cortical amygdalar area anterior part,28,COAa,14,MEA
+COAp,Cortical amygdalar area posterior part,-1,N/A,-1,N/A
+PAA,Piriform-amygdalar area,28,COAa,14,MEA
+TR,Postpiriform transition area,9,CA1,13,BLAp
+CA1,Field CA1,9,CA1,-1,N/A
+CA2,Field CA2,9,CA1,-1,N/A
+CA3,Field CA3,9,CA1,-1,N/A
+PAR,Parasubiculum,-1,N/A,-1,N/A
+POST,Postsubiculum,4,POST,7,POST
+PRE,Presubiculum,-1,N/A,-1,N/A
+SUB,Subiculum,-1,N/A,-1,N/A
+ProS,Prosubiculum,9,CA1,26,ProS
+OT,Olfactory tubercle,-1,N/A,-1,N/A
+MEA,Medial amygdalar nucleus,-1,N/A,14,MEA
+BST,Bed nuclei of the stria terminalis,18,LSr,3,LSr
+MD,Mediodorsal nucleus of thalamus,13,MD,-1,N/A
+LGv,Ventral part of the lateral geniculate complex,10,AON,-1,N/A
+PVH,Paraventricular hypothalamic nucleus,12,SCdg,15,PVT
+DMH,Dorsomedial nucleus of the hypothalamus,13,MD,15,PVT
+AHN,Anterior hypothalamic nucleus,12,SCdg,15,PVT
+SUM,Supramammillary nucleus,13,MD,-1,N/A
+MPN,Medial preoptic nucleus,12,SCdg,15,PVT
+PVHd,Paraventricular hypothalamic nucleus descending division,12,SCdg,16,SPA
+VMH,Ventromedial hypothalamic nucleus,13,MD,15,PVT
+MRN,Midbrain reticular nucleus,14,APN,10,APN
+NLL,Nucleus of the lateral lemniscus,30,NLL,27,ICe
+CS,Superior central nucleus raphe,16,CS,10,APN
+NTS,Nucleus of the solitary tract,0,CUL4 5,9,IRN
+SPVO,Spinal nucleus of the trigeminal oral part,0,CUL4 5,9,IRN
+LING,Lingula (I),0,CUL4 5,9,IRN
+CENT2,Lobule II,0,CUL4 5,9,IRN
+CENT3,Lobule III,0,CUL4 5,9,IRN
+CUL4 5,Lobules IV-V,0,CUL4 5,9,IRN
+DEC,Declive (VI),0,CUL4 5,9,IRN
+FOTU,Folium-tuber vermis (VII),0,CUL4 5,9,IRN
+PYR,Pyramus (VIII),0,CUL4 5,9,IRN
+UVU,Uvula (IX),0,CUL4 5,9,IRN
+NOD,Nodulus (X),0,CUL4 5,9,IRN
+SIM,Simple lobule,0,CUL4 5,9,IRN
+ANcr1,Crus 1,0,CUL4 5,12,ANcr1
+ANcr2,Crus 2,0,CUL4 5,9,IRN
+PRM,Paramedian lobule,0,CUL4 5,9,IRN
+COPY,Copula pyramidis,0,CUL4 5,9,IRN
+PFL,Paraflocculus,0,CUL4 5,9,IRN
+FL,Flocculus,0,CUL4 5,9,IRN
